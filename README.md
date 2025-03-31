@@ -1,4 +1,5 @@
-#🚀 my-portfolio-website
+#🚀 MY-PORTFOLIO-WEBSITE
+
 📌 About the Project
 
 This is my personal portfolio website, built using HTML & CSS, designed to present information about me, my projects, and contact details in a structured and visually appealing way. The website follows a tech-inspired futuristic theme, with a clean and modern UI.
