@@ -23,7 +23,7 @@ This section includes:
 
 ### **🔹 Projects**
 
-Showcasing my latest work with descriptions and screenshots:
+Showcasing project am working on, descriptions and screenshots:
 
 1. **University Club Website** - A platform designed for university clubs to manage events, members, and announcements. 
 
