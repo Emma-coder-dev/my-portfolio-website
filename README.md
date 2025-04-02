@@ -7,8 +7,8 @@ contact information in a structured and visually appealing way. The website foll
 
 ## 🛠️ Technologies Used
 
-- **HTML5** for structuring content
-- **CSS3** for styling and layout
+- **HTML5** for structuring content.
+- **CSS3** for styling and layout.
 
 ## 📄 Sections
 
@@ -23,7 +23,7 @@ This section includes:
 
 ### **🔹 Projects**
 
-Showcasing project am working on, descriptions and screenshots:
+Showcasing projects am working on, descriptions and screenshots:
 
 1. **University Club Website** - A platform designed for university clubs to manage events, members, and announcements. 
 
